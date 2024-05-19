@@ -1,6 +1,6 @@
 # Proyecto de Conversión de Monedas en Java
 
-Este proyecto es una aplicación de consola en Java que permite a los usuarios convertir el valor de una moneda en diferentes monedas.
+Este proyecto es para el Challenge Oracle para la parte de back-end, en donde consiste en una aplicación de consola en Java que permite a los usuarios convertir el valor de una moneda en diferentes monedas.
 
 ## Estructura del Proyecto
 
